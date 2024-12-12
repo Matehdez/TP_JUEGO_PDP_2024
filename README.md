@@ -2,6 +2,8 @@
 
 ![STICKY BLOCKS logo](assets/Logo.png)
 
+[¡Jugar ahora!](https://www.wollok.org/concurso/2024-o-tpjuego-bestiasalgoritmicas/)
+
 ## Introducción
 
 <h3 style = "font-weight:bolder">
@@ -21,8 +23,6 @@ Usá la cabeza para juntar los bloques mientras buscás la manera de llegar a la
 <img src="ImageReadme/imagen3.png" alt="Nivel1 stickyBlocks" width="400"/>
 <img src="ImageReadme/imagen4.png" alt="Nivel1 stickyBlocks" width="400"/>
 </div>
-
-
 
 ## Reglas de Juego / Instrucciones
 
@@ -53,6 +53,5 @@ M para abrir el menú
 - Hernandez Mateo Nicolas
 - Osa Pochelu Valentin Rodrigo
 - Serrudo Jose Luis
-  
 
 [Conceptos teóricos aplicados en el TP](ConceptosTeoricos.md)
