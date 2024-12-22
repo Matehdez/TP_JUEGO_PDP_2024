@@ -52,7 +52,8 @@ El concurso Wollok Game 2024 reunió a estudiantes de universidades como la Univ
 
 Organizado por Uqbar, los juegos fueron evaluados tanto por sus características técnicas como por la creatividad de sus desarrolladores. Nos complace anunciar que **Sticky Blocks** ha sido premiado como el juego ganador de esta edición.
 
-//
+### Diploma 
+![Diploma](Wollok_Game_2024.pdf)
 
 ## Equipo de desarrollo:
 
