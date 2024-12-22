@@ -1,4 +1,4 @@
-> UTN - Facultad Regional Buenos Aires - Materia Paradigmas de Programación
+# UTN - Facultad Regional Buenos Aires - Materia Paradigmas de Programación
 
 ![STICKY BLOCKS logo](assets/Logo.png)
 
@@ -46,6 +46,14 @@ R para reiniciar el nivel
 
 M para abrir el menú
 
+## Ganador del Concurso Wollok Game 2024
+
+El concurso Wollok Game 2024 reunió a estudiantes de universidades como la Universidad Nacional de Quilmes, la Universidad Tecnológica Nacional y la Universidad Nacional de Hurlingham para presentar sus juegos desarrollados en Wollok.
+
+Organizado por Uqbar, los juegos fueron evaluados tanto por sus características técnicas como por la creatividad de sus desarrolladores. Nos complace anunciar que **Sticky Blocks** ha sido premiado como el juego ganador de esta edición.
+
+//
+
 ## Equipo de desarrollo:
 
 - Devecchi Di Bella Lucas Nahuel
@@ -53,5 +61,7 @@ M para abrir el menú
 - Hernandez Mateo Nicolas
 - Osa Pochelu Valentin Rodrigo
 - Serrudo Jose Luis
+
+## Algunos conceptos Teóricos aplicados:
 
 [Conceptos teóricos aplicados en el TP](ConceptosTeoricos.md)
